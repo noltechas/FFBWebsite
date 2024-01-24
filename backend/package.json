@@ -1,0 +1,8 @@
+{
+  "name": "OdysseyWebsite",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "tedious": "^16.6.1"
+  }
+}
